@@ -1,0 +1,15 @@
+Assignment 2
+
+
+1) Which field of the Customers table is the primary key?
+Ans=> "Cnum" is field of the customers table is the primary key.
+
+
+2) What is the 4th column of the Customers table?
+Ans=> The 4th column of the customers table is "Rating"
+
+
+3) What is another word for row? For column?
+Ans=> For row- Tuple, Entity, Opportunity.
+          column- attributes,method.
+

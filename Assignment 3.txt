@@ -1,0 +1,11 @@
+Assignment 3
+
+
+
+1) Does ANSI recognize the data type DATE?
+Ans=> Yes
+
+
+
+2) Which subdivision of SQL is used to insert values in tables?
+Ans=> DML(Data Manulation Language ) is used to insert values in tables.
